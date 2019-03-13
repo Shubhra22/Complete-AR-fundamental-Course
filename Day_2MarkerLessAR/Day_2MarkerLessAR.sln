@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2MarkerLessAR", "Day_2MarkerLessAR.csproj", "{B0881998-5B48-8654-DC26-B7D5DB4C6723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_2MarkerLessAR.Editor", "Day_2MarkerLessAR.Editor.csproj", "{B2274D6E-7085-BD24-FCC1-DC7FA6D2386E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0881998-5B48-8654-DC26-B7D5DB4C6723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0881998-5B48-8654-DC26-B7D5DB4C6723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0881998-5B48-8654-DC26-B7D5DB4C6723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0881998-5B48-8654-DC26-B7D5DB4C6723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2274D6E-7085-BD24-FCC1-DC7FA6D2386E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2274D6E-7085-BD24-FCC1-DC7FA6D2386E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2274D6E-7085-BD24-FCC1-DC7FA6D2386E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2274D6E-7085-BD24-FCC1-DC7FA6D2386E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

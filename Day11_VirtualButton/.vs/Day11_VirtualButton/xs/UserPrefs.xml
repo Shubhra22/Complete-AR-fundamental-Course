@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E3C0543C-AAAC-89B6-FC01-A04427770B23}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VbuttonManager.cs">
+    <Files>
+      <File FileName="Assets/VButtonScript.cs" Line="9" Column="6" />
+      <File FileName="Assets/VbuttonManager.cs" Line="31" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

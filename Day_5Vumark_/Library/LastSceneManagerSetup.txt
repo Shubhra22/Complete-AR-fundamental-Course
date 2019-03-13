@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SamplesResources/Scenes/3-GroundPlane.unity
+  isLoaded: 1
+  isActive: 1

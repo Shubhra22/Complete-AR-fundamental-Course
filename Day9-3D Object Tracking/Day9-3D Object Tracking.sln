@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9-3D Object Tracking", "Assembly-CSharp.csproj", "{60F8DBDB-3876-2E36-F34F-F1D62612A643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9-3D Object Tracking", "Assembly-CSharp-Editor.csproj", "{2F80BF99-DF49-0584-8BAF-39082B22526C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F8DBDB-3876-2E36-F34F-F1D62612A643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F8DBDB-3876-2E36-F34F-F1D62612A643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F8DBDB-3876-2E36-F34F-F1D62612A643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F8DBDB-3876-2E36-F34F-F1D62612A643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F80BF99-DF49-0584-8BAF-39082B22526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F80BF99-DF49-0584-8BAF-39082B22526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F80BF99-DF49-0584-8BAF-39082B22526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F80BF99-DF49-0584-8BAF-39082B22526C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

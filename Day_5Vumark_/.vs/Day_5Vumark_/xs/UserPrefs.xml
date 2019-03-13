@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9BDBA9C0-A476-87C4-A276-0F5D375519A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SamplesResources/Scripts/PlaneManager.cs">
+    <Files>
+      <File FileName="Assets/Avengers/AvengerTrackerBehaviour.cs" Line="70" Column="57" />
+      <File FileName="Assets/IndexManager.cs" Line="46" Column="2" />
+      <File FileName="Assets/SamplesResources/Scripts/PlaneManager.cs" Line="225" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Day__5Vumark__ PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

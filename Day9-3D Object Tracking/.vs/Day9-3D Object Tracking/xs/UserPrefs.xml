@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{60F8DBDB-3876-2E36-F34F-F1D62612A643}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Vuforia/Shaders/DepthMask.shader">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="100" Column="33" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" Line="10" Column="1" />
+      <File FileName="Assets/Vuforia/Shaders/DepthMask.shader" Line="30" Column="21" />
+      <File FileName="Assets/UIManager.cs" Line="4" Column="1" />
+      <File FileName="Assets/Recorder.cs" Line="23" Column="36" />
+      <File FileName="Assets/AndroidUtils.cs" Line="42" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

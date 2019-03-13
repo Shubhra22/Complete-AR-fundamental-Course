@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{02832D8E-949C-A1EC-0DA8-703E6E9B3ECF}|">
+  <MonoDevelop.Ide.ItemProperties.Day6__MultiTarget PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MobileARShadow.shader">
+    <Files>
+      <File FileName="Assets/TransparentShadowReceiver.shader" Line="46" Column="2" />
+      <File FileName="Assets/MobileARShadow.shader" Line="73" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

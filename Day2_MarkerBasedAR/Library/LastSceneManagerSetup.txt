@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SamplesScenes/3-UserDefinedTargets.unity
+  isLoaded: 1
+  isActive: 1

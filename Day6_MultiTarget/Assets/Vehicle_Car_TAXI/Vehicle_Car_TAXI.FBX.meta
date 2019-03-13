@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 4e34a8a8c01fe40dead791a8904e22c0
+timeCreated: 1526548406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bonnet
+    100002: Boot
+    100004: Bumper_Front
+    100006: Bumper_Front_Mesh_00
+    100008: Bumper_Rear
+    100010: Bumper_Rear_Mesh_00
+    100012: Chassis
+    100014: DamageBone_BONNET_Front_mid
+    100016: DamageBone_BONNET_FrontL
+    100018: DamageBone_BONNET_FrontR
+    100020: DamageBone_BONNET_Mid
+    100022: DamageBone_Boot_Left
+    100024: DamageBone_Boot_Middle_Bot
+    100026: DamageBone_Boot_Middle_Top
+    100028: DamageBone_Boot_Right
+    100030: DamageBone_DOOR_Back_Left_Bot
+    100032: DamageBone_DOOR_Back_Left_top
+    100034: DamageBone_DOOR_Back_Right_Bot
+    100036: DamageBone_DOOR_Back_Right_top
+    100038: DamageBone_DOOR_FRONT_Left_Bot
+    100040: DamageBone_DOOR_FRONT_Left_top
+    100042: DamageBone_DOOR_Front_Right_Bot
+    100044: DamageBone_DOOR_FRONT_Right_top
+    100046: DamageBone_Front_L
+    100048: DamageBone_Front_Mid
+    100050: DamageBone_Front_R
+    100052: DamageBone_FrontWing_L
+    100054: DamageBone_FrontWing_R
+    100056: DamageBone_Rear
+    100058: DamageBone_Rear_L
+    100060: DamageBone_Rear_R
+    100062: DamageBone_RearWing_L
+    100064: DamageBone_RearWing_R
+    100066: DamageBone_TopFront
+    100068: DamageBone_TopRear
+    100070: DOOR_FRONT_Left
+    100072: DOOR_FRONT_Right
+    100074: DOOR_REAR_Left
+    100076: DOOR_REAR_Right
+    100078: Front_HeadLight_Left
+    100080: Front_HeadLight_Right
+    100082: GLASS_Window_Back
+    100084: GLASS_Window_BackLeft
+    100086: GLASS_Window_BackRight
+    100088: GLASS_Window_FrontLeft
+    100090: GLASS_Window_FrontRight
+    100092: GLASS_Window_RearLeft
+    100094: GLASS_Window_RearRight
+    100096: GLASS_Window_Windscreen
+    100098: Light_Hazard_Front_Left
+    100100: Light_Hazard_Front_Right
+    100102: Light_Hazard_Side_Left_01
+    100104: Light_Hazard_Side_Left_02
+    100106: Light_Hazard_Side_Right_01
+    100108: Light_Hazard_Side_Right_02
+    100110: Light_Sublight_Front_Left
+    100112: Light_Sublight_Front_Right
+    100114: mesh_special_light
+    100116: Read_Lights_Right
+    100118: Read_Lights_Right_01
+    100120: rear_drivers_plate_mesh
+    100122: Rear_Lights_Left
+    100124: Rear_Lights_Left_01
+    100126: TAXI_BODY_GUARD_Left
+    100128: TAXI_BODY_GUARD_Left_Mesh_00
+    100130: TAXI_BODY_GUARD_Right
+    100132: TAXI_BODY_GUARD_Right_Mesh_00
+    100134: //RootNode
+    100136: Vehicle_Car_TAXI_FULL_Drivable
+    100138: Wheel_Front_HUB_Left
+    100140: Wheel_Front_HUB_Right
+    100142: Wheel_Front_Left
+    100144: Wheel_Front_Right
+    100146: Wheel_Rear_HUB_Left
+    100148: Wheel_Rear_HUB_Right
+    100150: Wheel_Rear_Left
+    100152: Wheel_Rear_Right
+    400000: Bonnet
+    400002: Boot
+    400004: Bumper_Front
+    400006: Bumper_Front_Mesh_00
+    400008: Bumper_Rear
+    400010: Bumper_Rear_Mesh_00
+    400012: Chassis
+    400014: DamageBone_BONNET_Front_mid
+    400016: DamageBone_BONNET_FrontL
+    400018: DamageBone_BONNET_FrontR
+    400020: DamageBone_BONNET_Mid
+    400022: DamageBone_Boot_Left
+    400024: DamageBone_Boot_Middle_Bot
+    400026: DamageBone_Boot_Middle_Top
+    400028: DamageBone_Boot_Right
+    400030: DamageBone_DOOR_Back_Left_Bot
+    400032: DamageBone_DOOR_Back_Left_top
+    400034: DamageBone_DOOR_Back_Right_Bot
+    400036: DamageBone_DOOR_Back_Right_top
+    400038: DamageBone_DOOR_FRONT_Left_Bot
+    400040: DamageBone_DOOR_FRONT_Left_top
+    400042: DamageBone_DOOR_Front_Right_Bot
+    400044: DamageBone_DOOR_FRONT_Right_top
+    400046: DamageBone_Front_L
+    400048: DamageBone_Front_Mid
+    400050: DamageBone_Front_R
+    400052: DamageBone_FrontWing_L
+    400054: DamageBone_FrontWing_R
+    400056: DamageBone_Rear
+    400058: DamageBone_Rear_L
+    400060: DamageBone_Rear_R
+    400062: DamageBone_RearWing_L
+    400064: DamageBone_RearWing_R
+    400066: DamageBone_TopFront
+    400068: DamageBone_TopRear
+    400070: DOOR_FRONT_Left
+    400072: DOOR_FRONT_Right
+    400074: DOOR_REAR_Left
+    400076: DOOR_REAR_Right
+    400078: Front_HeadLight_Left
+    400080: Front_HeadLight_Right
+    400082: GLASS_Window_Back
+    400084: GLASS_Window_BackLeft
+    400086: GLASS_Window_BackRight
+    400088: GLASS_Window_FrontLeft
+    400090: GLASS_Window_FrontRight
+    400092: GLASS_Window_RearLeft
+    400094: GLASS_Window_RearRight
+    400096: GLASS_Window_Windscreen
+    400098: Light_Hazard_Front_Left
+    400100: Light_Hazard_Front_Right
+    400102: Light_Hazard_Side_Left_01
+    400104: Light_Hazard_Side_Left_02
+    400106: Light_Hazard_Side_Right_01
+    400108: Light_Hazard_Side_Right_02
+    400110: Light_Sublight_Front_Left
+    400112: Light_Sublight_Front_Right
+    400114: mesh_special_light
+    400116: Read_Lights_Right
+    400118: Read_Lights_Right_01
+    400120: rear_drivers_plate_mesh
+    400122: Rear_Lights_Left
+    400124: Rear_Lights_Left_01
+    400126: TAXI_BODY_GUARD_Left
+    400128: TAXI_BODY_GUARD_Left_Mesh_00
+    400130: TAXI_BODY_GUARD_Right
+    400132: TAXI_BODY_GUARD_Right_Mesh_00
+    400134: //RootNode
+    400136: Vehicle_Car_TAXI_FULL_Drivable
+    400138: Wheel_Front_HUB_Left
+    400140: Wheel_Front_HUB_Right
+    400142: Wheel_Front_Left
+    400144: Wheel_Front_Right
+    400146: Wheel_Rear_HUB_Left
+    400148: Wheel_Rear_HUB_Right
+    400150: Wheel_Rear_Left
+    400152: Wheel_Rear_Right
+    2100000: VEHICLE_Taxi_V2_Body_MIC
+    2100002: VEHICLE_Taxi_Interior_NoRain_MAT
+    2100004: VEHICLE_Taxi_interior_INST
+    2100006: VEHICLE_TAXI_V2_Glass_MIC
+    4300000: Vehicle_Car_TAXI_FULL_Drivable
+    9500000: //RootNode
+    13700000: Vehicle_Car_TAXI_FULL_Drivable
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VEHICLE_TAXI_V2_Glass_MIC
+    second: {fileID: 2100000, guid: 82631a99955fe49d3ac77fb27c3dcc82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VEHICLE_Taxi_Interior_NoRain_MAT
+    second: {fileID: 2100000, guid: a73b8b6a1c1194c71a735e390a962d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VEHICLE_Taxi_V2_Body_MIC
+    second: {fileID: 2100000, guid: edf4cc2f697c24a2b9fc789b039d43e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VEHICLE_Taxi_interior_INST
+    second: {fileID: 2100000, guid: 91d5438ad923a4c289547143e0091584, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

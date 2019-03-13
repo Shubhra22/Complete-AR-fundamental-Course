@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_MarkerBasedAR", "Day2_MarkerBasedAR.csproj", "{777AABC3-34C1-BF0D-93B0-58E39DCA2B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_MarkerBasedAR.Editor", "Day2_MarkerBasedAR.Editor.csproj", "{A89844E0-FEFC-139F-AD5D-4978DD8F823A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777AABC3-34C1-BF0D-93B0-58E39DCA2B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777AABC3-34C1-BF0D-93B0-58E39DCA2B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777AABC3-34C1-BF0D-93B0-58E39DCA2B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777AABC3-34C1-BF0D-93B0-58E39DCA2B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89844E0-FEFC-139F-AD5D-4978DD8F823A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89844E0-FEFC-139F-AD5D-4978DD8F823A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89844E0-FEFC-139F-AD5D-4978DD8F823A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89844E0-FEFC-139F-AD5D-4978DD8F823A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
